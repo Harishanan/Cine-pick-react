@@ -2,15 +2,11 @@
 
 A stylish, fast, and user-friendly movie discovery app built with React and the TMDb API. Whether you're looking for the latest blockbuster or a hidden gem, Movie Explorer helps you find it in seconds.
 
-## 🚀 Live Preview
-
-[👉 View the App Live](https://your-live-link.com) <!-- Optional -->
-
 ---
 
 ## 📸 App Preview
 
-![App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot -->
+<video controls src="Images/cine-pick-webpage.mp4" title="Cine Pick Explorer"></video>
 
 ---
 
@@ -55,32 +51,32 @@ This approach makes your app feel more interactive and personalized to actual us
 ```bash
 git clone https://github.com/yourusername/movie-explorer.git
 cd movie-explorer
-
+```
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
+```
 
-
-3. Setup Environment Variables
+### 3. Setup Environment Variables
 
 Create a .env file in the root directory:
 
 ```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key
-
+```
 Get your API key from TMDb.
 
 
-4. Start the Development Server
+### 4. Start the Development Server
 
 ```bash
 npm run dev
-
+```
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 The Movie Database (TMDb)
 
 Appwrite
