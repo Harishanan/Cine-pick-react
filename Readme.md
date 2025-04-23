@@ -6,7 +6,9 @@ A stylish, fast, and user-friendly movie discovery app built with React and the 
 
 ## 📸 App Preview
 
-<video controls src="Images/cine-pick-webpage.mp4" title="Cine Pick Explorer"></video>
+Click the image below to preview the app in action:
+
+[![Watch Demo](Images/cine-pick-webpage.mp4)](images/demo.mp4)
 
 ---
 
