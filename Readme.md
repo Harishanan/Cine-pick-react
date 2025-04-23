@@ -6,12 +6,7 @@ A stylish, fast, and user-friendly movie discovery app built with React and the 
 
 ## 📸 App Preview
 
-[![Watch Demo](Images/cine-pick-webpage.mp4-thumbnail.png)](Images/cine-pick-webpage.mp4)
-
-
-Click the image below to preview the app in action:
-
-[![Watch Demo](Images/cine-pick-webpage.mp4)](images/demo.mp4)
+![Developed Web Gif](Images/Web1.gif)
 
 ---
 
